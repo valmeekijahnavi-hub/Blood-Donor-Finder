@@ -10,7 +10,7 @@ Beginner-friendly B.Tech live project using Python, Streamlit, SQLite, Pandas an
 - Blood donation history
 - Donor records and availability updates
 - About project
-
+dash board link : https://blood-donor-finder-bp2rwp8wq9wmvzhjju8v5v.streamlit.app/
 ## Run locally
 Install Python 3.10+, open terminal in this folder and run:
 
